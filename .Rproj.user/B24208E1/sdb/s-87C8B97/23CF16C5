@@ -1,12 +1,12 @@
 {
-    "contents" : "## This is a markdown file",
+    "contents" : "## This is a markdown file\n",
     "created" : 1430918180519.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3398810732",
+    "hash" : "1981398620",
     "id" : "23CF16C5",
-    "lastKnownWriteTime" : 1430918192,
+    "lastKnownWriteTime" : 1430918251,
     "path" : "D:/coursera/coursera.Rmd",
     "project_path" : "coursera.Rmd",
     "properties" : {
